@@ -4,27 +4,27 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
-    "text": ""
+    "link": "https://www.dhbw.de/startseite",
+    "text": "Paul Groß, Philipp Kappus"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": ""
+    "more": "Analyse von Nutzeren aufgrund verschiedener Schlüsselwörter. Nutzer die Häufig die selben Schlüsselwörter verwenden werden nah aneinander platziert. Nutzer, welche sich nach clustering zu 100% ähnlich sind werden akkumuliert.\nZeitraum: 1 Monat, Februar 2021\nNutzer: 250 000, reduziert: 11 000\nTweets analyisiert: 2 500 000\n\n",
+    "intro": "Analyse von Nutzeren aufgrund verschiedener Schlüsselwörter. \n",
+    "title": "CLustering von Twitterpost zum Thema Corna anhand von Schlagwörtern"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Similarity",
+    "colorLabel": "Cluster",
+    "nodeLabel": "User"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "cluster",
     "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "image"
   },
   "sigma": {
     "drawingProperties": {
