@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "https://www.dhbw.de/startseite",
-    "text": "Paul Groß, Philipp Kappus"
+    "text": "Paul Groß (paul.riedlingen@gmail.com), Philipp Kappus (philipp.kappus@gmail.com)"
   },
   "text": {
-    "more": "Analyse von Nutzeren aufgrund verschiedener Schlüsselwörter. Nutzer die Häufig die selben Schlüsselwörter verwenden werden nah aneinander platziert. Nutzer, welche sich nach clustering zu 100% ähnlich sind werden akkumuliert.\nZeitraum: 1 Monat, Februar 2021\nNutzer: 250 000, reduziert: 11 000\nTweets analyisiert: 2 500 000\n\n",
-    "intro": "Analyse von Nutzeren aufgrund verschiedener Schlüsselwörter. \n",
-    "title": "CLustering von Twitterpost zum Thema Corna anhand von Schlagwörtern"
+    "more": "Analysis of users based on different keywords. Users who frequently use the same keywords are placed close to each other. Users that are 100% similar after clustering are accumulated.\n Period: 1 month, February 2021\nUsers: 250 000, reduced: 11 000\nTweets analyzed: 2 500 000\n\n",
+    "intro": "Analysis of users based on different keywords. \n",
+    "title": "Clustering of Twitter posts on the topic of corona based on keywords"
   },
   "legend": {
     "edgeLabel": "Similarity",
